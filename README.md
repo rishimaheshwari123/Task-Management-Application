@@ -16,10 +16,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ## Overview  </br>
-Build a task management application with authentication where users can create, update, delete,
-and view tasks. The application should use MongoDB for data storage, Node.js and Express.js
-for the backend, React.js for the frontend, and state management libraries like Redux or React
-Context API.
+This test is being administered to identify your ability to learn new concepts on the fly from online documentation. It is assumed that you have the following basic skills and/or will pickup skills as you go.
 
 # Setup And Testing client
 ```
